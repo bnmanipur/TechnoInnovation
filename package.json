@@ -1,0 +1,24 @@
+{
+  "name": "technoinnovation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnmanipur/TechnoInnovation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnmanipur/TechnoInnovation/issues"
+  },
+  "homepage": "https://github.com/bnmanipur/TechnoInnovation#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^12.0.3",
+    "express": "^4.17.2",
+    "pug": "^3.0.2"
+  }
+}
